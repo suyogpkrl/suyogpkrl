@@ -1,10 +1,23 @@
-## Hi there 👋
-I'm Suyog, a Computer engineering student from Nepal.
-I've been trying out different programming languages and stuff to see what I enjoy most.
+## 👋 Hi there!
 
+I'm **Suyog**, a Computer Engineering student from **Nepal**.  
+I love exploring different programming languages, tools, and technologies to figure out what I enjoy building the most.
 
-Techstack
-C, C++, Python, HTML, CSS
-Flutter, Qt/Qml
+---
 
+## Tech Stack
 
+### **Languages**
+- C  
+- C++  
+- Python  
+- HTML  
+- CSS  
+
+### **Frameworks & Tools**
+- Flutter  
+- Qt / QML  
+
+---
+
+Thanks for stopping by! 🚀
